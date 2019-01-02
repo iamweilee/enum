@@ -1,5 +1,5 @@
 {
-  "name": "@iamweilee/enum",
+  "name": "es-enum",
   "version": "0.0.1",
   "description": "javascript enum",
   "main": "index.js",
