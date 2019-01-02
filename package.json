@@ -1,5 +1,5 @@
 {
-  "name": "es-enum",
+  "name": "microenum",
   "version": "0.0.1",
   "description": "javascript enum",
   "main": "index.js",

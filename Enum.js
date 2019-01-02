@@ -2,7 +2,7 @@
  * @file 通用枚举类，参考自ECOMFE的ER
  */
 
-export default class Enum {
+class Enum {
   /**
    * @class Enum
    *
@@ -238,3 +238,5 @@ export default class Enum {
     )
   }
 }
+
+module.exports = Enum;
