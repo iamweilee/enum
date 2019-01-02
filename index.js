@@ -1,2 +1,1 @@
-import Enum from 'Enum';
-export default Enum;
+module.exports = require('./Enum');
