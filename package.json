@@ -1,6 +1,6 @@
 {
   "name": "microenum",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "javascript enum",
   "main": "index.js",
   "scripts": {

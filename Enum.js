@@ -222,7 +222,7 @@ class Enum {
     return aaa;
   }
 
-  // { label: 'Apple', value: 'Apple' },
+  // { label: 'Apple', value: 1 },
   toCheckArray(withAll) {
     let array = [];
     if (withAll) {
@@ -233,7 +233,7 @@ class Enum {
 
     return array.map(
       (item) => {
-        return { label: item.text, value: item.value };
+        return { label: item.text, value: item.value, key: item.alias };
       },
     )
   }
